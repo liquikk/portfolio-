@@ -6,6 +6,6 @@
 ## Страница с игровыми топами
 ![image](slides/tops.png)
 ## Страница поиска напарников
-![image](slides/search.png)
+![image](slides/Search.png)
 ## Мокапы
 ![image](slides/mockups.png)
