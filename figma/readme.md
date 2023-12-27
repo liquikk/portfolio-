@@ -17,12 +17,3 @@
 ![image](project/stocks.jpg)
 ## 7. О нас
 ![image](project/about.jpg)
-# Отдельные работы выполенные в Figma:
-## 1. Инфографик
-![image](works/infograph.jpg)
-## 2. Плеер
-![image](works/player_1.png)
-![image](works/player_2.png)
-## 3. Визитка
-![image](works/business_card.jpg)
-![image](works/business_card(back).jpg)
