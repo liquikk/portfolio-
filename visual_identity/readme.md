@@ -17,9 +17,3 @@
 ![image](project/slides/14.jpg)
 ![image](project/slides/15.jpg)
 ![image](project/slides/16.png)
-# Отдельные работы
-## 1. Клеймо мастера
-### Мастер оружейник(кузнец)
-![image](works/kleymo.png)
-## 2. Фамильный герб
-![image](works/gerb.png)
